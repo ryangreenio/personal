@@ -1,5 +1,5 @@
 ---
-title: Images can be added to posts
+title: How To Stay Productive When Working From Anywhere
 date: 2020-02-03
 author: John Doe
 summary: Add a random image to your post using unsplash

@@ -2,22 +2,25 @@
 title: About Me
 subtitle: ""
 metaDescription: This page is all about me
-date: 2017-01-01T00:00:00.000Z
+date: 2022-20-05T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
+### TL;DRs
+- 5+ years in marketing 
+- Loves SEO, DevRel & Data 
+- Full-time digital nomad
+- Open to new opportunities
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
 
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
+I’m Ryan (Ry) - SEO’er by day, content creator by night. 
 
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
+For the past 3 years I’ve worked remotely for some awesome companies including Picked, eSynergy, and more recently consulting for Reliably. 
 
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
+When I am not working, I am planning my next travel adventure with my wife. You’ll often find us disagreeing on how many retrievers is too many to own. 
 
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
+3 of the coolest things I’ve ever done: jumped out of an aeroplane; worked in New Zealand for 16 months and 3D printed a robot that could tell you my resume. 
 
-![Fern in Hand](/static/img/fern-in-hand.jpeg "Fern in Hand")
+![Ryan](/static/img/ryan.jpeg "Ryan")

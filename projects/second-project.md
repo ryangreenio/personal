@@ -1,12 +1,14 @@
 ---
-title: Another NPM Package
-emoji: 💾
+title: Reliably SEO
+emoji: 🥷🏻
 metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: This is an NPM package I made
+summary: Developer marketing work for B2D company
 tags:
-  - javascript
-  - node
+  - developer marketing
+  - seo
+  - devrel
+  - B2D
 ---
 
 ### Task

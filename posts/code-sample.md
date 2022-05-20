@@ -1,5 +1,5 @@
 ---
-title: This post contains a code sample
+title: 10 Benefits Of Working Remotely
 metaDescription: Add code samples to your markdown files
 date: 2019-01-01T00:00:00.000Z
 author: John Appleseed

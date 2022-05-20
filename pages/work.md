@@ -1,35 +1,52 @@
 ---
 title: Work
-subtitle: This is where you can describe your skills and talk about projects
-  you've worked on
+subtitle: Full-time remote worker with a passion for SEO, content, PPC and data.
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
   order: 3
   key: Work
 ---
-### 👩‍💻 Experience:
+### 👨🏼‍💻 Recent Experience:
 
-#### Tesla
+#### Picked
 
-**Senior Software Engineer** *(2019 - Current)*
+**Senior Marketing Executive** *(Mar 2021 - Current)*
 
-* Collaborated with Elon Musk on 80,000 unique projects
-* Invented the Cyber Truck
+* XX
+* XX
 
-#### Microsoft
+#### Reliably
 
-**Software Engineer** *(2014 - 2019)*
+**Developer Marketing** *(Feb 2022 - Current)*
 
-* Maintained legacy Internet Explorer for 5 long years
+* XXX
+
+#### Reliably
+
+**Developer Marketing** *(Feb 2022 - Current)*
+
+* XXX
 
 - - -
 
 ### 📚 Education:
 
-#### Harvard
+#### Brunel University
 
-**PhD Astronomy** *(2014 - 2015)*
+**Multimedia Technology and Design** *(2012 - 2016)*
 
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+* BSc 1st Class Honours 
+* Won Best Project from Brunels School of Engineering and Design
+
+- - -
+
+### 💪🏼 Top Skills:
+
+**Sofware & Languages** 
+
+* AHREFs, Moz, Buzzstream, SEOtesting, Frase,  
+* Google Analytics, Data Studio, Search Console, Ads, Tag Manger
+* AutoPilot, HubSpot, ActiveCampaign, MailChimp, Sendin Blue
+* Adobe Creative Suite, Canva, Blender
+* Atom, VSC, HTML5, CSS, NJK, 11ty, Netifly, GitHub, WordPress
