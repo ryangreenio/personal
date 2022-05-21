@@ -1,9 +1,13 @@
 ---
 title: 10 Benefits Of Working Remotely
-metaDescription: Remote working is now popular amongst many companies and is becoming the new standard way to work. If your are considering working remotely check out these top 10 benefits.
 date: 2022-05-21T00:00:00.000Z
 author: Ryan Green
-summary: Remote working is now popular amongst many companies and is becoming the new standard way to work. If your are considering working remotely check out these top 10 benefits.
+summary: Remote working is now popular amongst many companies and is becoming
+  the new standard way to work. If your are considering working remotely check
+  out these top 10 benefits.
+metaDescription: Remote working is now popular amongst many companies and is
+  becoming the new standard way to work. If your are considering working
+  remotely check out these top 10 benefits.
 tags:
   - remote work
   - work from anywhere
@@ -16,8 +20,7 @@ It's not just because it saves time and money but also offers many benefits to a
 
 It is true that remote work comes with its own set of challenges such as isolation, lack of socialization, and sometimes difficulties in communication. But there are also many benefits that make up for them - as you will see in this article!
 
-![Reliably](/static/img/blog-post.jpg "Reliably")
-
+![remote work](/static/img/blog-post.jpg "remote work")
 
 ## 1. Flexibility
 
@@ -55,7 +58,7 @@ Happy workers who feel fulfilled and not overworked is a great goal most compani
 
 ## 5. Set your own schedule
 
-![Reliably](/static/img/1.jpg "Reliably")
+![working remotely benefits](/static/img/1.jpg "working remotely benefits ")
 
 You get to be your own boss when you work remote and set your own schedule as you see fit. You can also travel the world while still getting your work done providing your employer supports this.
 
@@ -87,13 +90,8 @@ Comfort over appearances is definitely a big win. Just remember to brush your ha
 
 ## 10. You can spend more time with your family, kids or dogs.
 
-![Reliably](/static/img/2.jpg "Reliably")
+![benefits of remote working](/static/img/2.jpg "benefits of remote working")
 
 Whether it's spending more time with your pets, family or kids - remote work gives you more time to spend with whom you care about the most.
 
 There is nothing quite like finishing a stressful meeting and having 3 retrievers to burden the load!
-
-
-
-
-
