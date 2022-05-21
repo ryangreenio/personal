@@ -8,6 +8,8 @@ summary: Remote working is now popular amongst many companies and is becoming
 metaDescription: Remote working is now popular amongst many companies and is
   becoming the new standard way to work. If your are considering working
   remotely check out these top 10 benefits.
+image: /static/img/blog-post.jpg 
+imageAlt: remote working
 tags:
   - remote work
   - work from anywhere
