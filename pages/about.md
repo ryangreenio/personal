@@ -21,5 +21,3 @@ For the past 3 years I’ve worked remotely for some awesome companies including
 When I am not working, I am planning my next travel adventure with my wife. You’ll often find us disagreeing on how many retrievers is too many to own. 
 
 3 of the coolest things I’ve ever done: jumped out of an aeroplane; worked in New Zealand for 16 months and 3D printed a robot that could tell you my resume. 
-
-![Ryan](/static/img/ryan.jpg "Ryan")

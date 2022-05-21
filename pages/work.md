@@ -13,8 +13,7 @@ eleventyNavigation:
 
 **Senior Marketing Executive** *(Mar 2021 - Current)*
 
-* XX
-* XX
+* Responsible for SEO, PPC and marketing automation.
 
 #### <a href="https://reliably.com">Reliably</a>
 
@@ -26,37 +25,25 @@ eleventyNavigation:
 
 **Marketing Manager** *(Nov 2019 - Oct 2020)*
 
-* Responsible for SEO, PPC and lead generation across 12 
-
 #### <a href="https://esynergy.co.uk">eSynergy</a> 
 
 **Digital Marketing** *(Sep 2017 - Sep 2019)*
-
-* XXX
 
 #### <a href="https://blossomeducational.com">Blossom Educational</a>  
 
 **Digital Marketing** *(Jul 2016 - Mar 2017)*
 
-* XXX
-
 #### <a href="https://developers.google.com/community/accelerators">Google</a>
 
 **Launchpad for Developers** *(Apr 2016)*
-
-* XXX
 
 #### <a href="https://www.taylorjames.com">Taylor James </a>
 
 **Digital Marketing** *(Jan 2015 - Apr 2015)*
 
-* XXX
-
 #### <a href="https://corporate.hasbro.com/en-us">Hasbro</a> 
 
 **Brand Licensing** *(Jun 2014 - Dec 2014)*
-
-* XXX
 
 - - -
 
@@ -68,6 +55,12 @@ eleventyNavigation:
 
 * BSc 1st Class Honours 
 * Won Best Project from Brunels School of Engineering and Design
+
+#### City University of London
+
+**Writing for digital media and the web** *(2016)*
+
+* Content writing course for blogs, social media and content creation
 
 - - -
 
