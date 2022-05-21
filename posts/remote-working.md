@@ -1,22 +1,22 @@
 ---
 title: 10 Benefits Of Working Remotely
-date: 2022-05-21T00:00:00.000Z
 author: Ryan Green
 summary: Remote working is now popular amongst many companies and is becoming
   the new standard way to work. If your are considering working remotely check
   out these top 10 benefits.
+imageAlt: remote working
+date: 2022-05-21T00:00:00.000Z
 metaDescription: Remote working is now popular amongst many companies and is
   becoming the new standard way to work. If your are considering working
   remotely check out these top 10 benefits.
-image: /static/img/blog-post.jpg 
-imageAlt: remote working
 tags:
   - remote work
   - work from anywhere
   - digital nomad
   - wfa
+image: /static/img/blog-post.jpg
 ---
-Remote working is becoming a trend these days - **the number of people who work from home has increased by 140% since 2005**.
+Remote working is becoming a trend these days - the number of people who work from home has increased by 140% since 2005.
 
 It's not just because it saves time and money but also offers many benefits to an employee including flexibility, autonomy, and freedom from office politics.
 
