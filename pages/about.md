@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: ""
-metaDescription: This page is all about me
+metaDescription: Passionate freelance consultant, with experine in SEO, PPC, Google Ads and marketing automation. Find out more.
 date: 2022-20-05T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:

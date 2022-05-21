@@ -1,8 +1,8 @@
 ---
 title: Publications
 emoji: 🦖
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
-date: 2019-01-01T00:00:00.000Z
+metaDescription: This is a collection of publications I've written for other websites. View some of the content writing and courses I've written.
+date: 2022-01-05T00:00:00.000Z
 summary: Articles I've written for other sites
 tags:
   - content writing

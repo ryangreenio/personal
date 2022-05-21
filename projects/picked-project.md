@@ -1,7 +1,7 @@
 ---
 title: Picked SEO
 emoji: 😺
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+metaDescription: Picked is HR platform which required SEO and marketing to support with lead generation. Learn more about how I helped. 
 date: 2019-01-01T00:00:00.000Z
 summary: SEO work for 9 sites including Picked
 tags:
