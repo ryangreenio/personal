@@ -11,16 +11,15 @@ eleventyNavigation:
 ### TL;DRs
 - 5+ years in marketing 
 - Loves SEO, DevRel & Data 
-- Full-time digital nomad
-- Open to new opportunities
+- Open to freelance opportunities
 
 
-I’m Ryan (Ry) - SEO’er by day, content creator by night. 
+I’m Ryan - SEO’er by day, traveller by any free time I get. 
 
-For the past 3 years I’ve worked remotely for some awesome companies including Picked, eSynergy, and more recently consulting for Reliably. 
+For the past 3 years I’ve worked remotely for some awesome companies including Picked, eSynergy, and most recently Reliably. 
 
 When I am not working, I am planning my next travel adventure with my wife. You’ll often find us disagreeing on how many retrievers is too many to own. 
 
 3 of the coolest things I’ve ever done: jumped out of an aeroplane; worked in New Zealand for 16 months and 3D printed a robot that could tell you my resume. 
 
-![Ryan](/static/img/ryan.jpeg "Ryan")
+![Ryan](/static/img/ryan.jpg "Ryan")
