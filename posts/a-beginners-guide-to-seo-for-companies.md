@@ -12,7 +12,10 @@ metaDescription: >
   customers find your website, services & products online. Learn how with this
   guide. 
 tags:
-  - post
+  - seo
+  - guide
+  - beginner
+  - resources
 image: /static/img/pexels-oleksandr-pidvalnyi-9822732.jpg
 ---
 ## What is SEO?
