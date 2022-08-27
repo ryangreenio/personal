@@ -108,15 +108,15 @@ The higher your score, the easier you'll find ranking for competitive keywords.
 
 Let's take a look at an example:
 
-![]()
+![disney seo score](/static/img/unnamed.png "disney seo score")
 
 Disney.com has a DR score of 89 and a homepage UR score of 87. This is an incredibly high score as Disney is a trustworthy website with many external websites linking to them. They have a better chance of ranking for the competitive search term "toy" compared to a smaller website like Artoyz.com whose DR score is 49 and UR score is 43.
 
-![]()
+![Artoyz.com seo score](/static/img/unnamed-3.png "Artoyz.com seo score")
 
 If we remember back to the section on keywords, each keyword has a difficulty level to rank for. "Toys" for example has a difficulty score of 78 which is extremely difficult to rank for. Currently, smythtoys.com has the number 1 spot.
 
-![]()
+![seo score](/static/img/unnamed-4.png "“Toys” seo score")
 
 ### 3. Core Web Vitals
 
