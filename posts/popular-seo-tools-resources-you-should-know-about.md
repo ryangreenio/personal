@@ -9,7 +9,11 @@ metaDescription: If you're looking to improve your website's SEO, there are a
   number of popular tools and resources you should know about. Check out this
   comprehensive list.
 tags:
-  - post
+  - seo
+  - tools
+  - resources
+  - tips
+  - guide
 image: /static/img/pexels-pixabay-265125.jpg
 ---
 ## Popular SEO tools & resources you should know about
