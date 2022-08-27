@@ -11,6 +11,6 @@ eleventyNavigation:
   order: 5
 ---
 
-Fancy a chat? Looknig to hire me?
+Fancy a chat? Looking to hire me?
 
-Lets chat! 
+Let's chat! 

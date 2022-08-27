@@ -1,7 +1,8 @@
 ---
 title: Picked Group SEO
 emoji: 😺
-metaDescription: Picked is HR platform which required SEO and marketing to support with lead generation. Learn more about how I helped. 
+metaDescription: Picked is HR platform which required SEO and marketing to support with lead generation. Learn more about how I helped.
+ogImage: /static/img/img/picked.png 
 date: 2019-01-01T00:00:00.000Z
 summary: SEO work for 9 sites including Picked
 tags:
