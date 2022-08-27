@@ -25,6 +25,8 @@ For most people, it's typically the top 3 results which are clicked on. In fact,
 
 The percentage breakdown looks something like this:
 
+
+
 | **Google search results position** | **% of users likely to click** |
 | ---------------------------------- | ------------------------------ |
 | Ad Position 1                      | 2.1%                           |
@@ -41,6 +43,8 @@ The percentage breakdown looks something like this:
 | Search Position 8                  | 2.9%                           |
 | Search Position 9                  | 2.2%                           |
 | Search Position 10 (if present)    | 2.1%                           |
+
+
 
 This means that if a user cannot find your website on the first page of Google, you'll be practically non-existent and other competitor sites are likely winning customers and business over yours.
 
@@ -85,6 +89,8 @@ The five key benefits of SEO include:
 5. Connect users to valuable content they are searching for
 
 ## What are the 5 important concepts of SEO?
+
+![important concepts of SEO](/static/img/myriam-jessier-evei7mocsmw-unsplash.jpg "important concepts of SEO")
 
 The 5 important concepts of search engine optimisation are:
 
@@ -208,6 +214,8 @@ For a standard website, you can expect the following hours required to complete 
 Another misconception in SEO is that once you've built a website and optimised it for SEO, your work is done. SEO is something you continually need to work on and invest time into to ensure your traffic continually grows month on month.
 
 ## In-house SEO Vs Agency Vs Freelance
+
+![In-house SEO Vs Agency Vs Freelance](/static/img/pexels-canva-studio-3194521.jpg "In-house SEO Vs Agency Vs Freelance")
 
 You might be considering learning SEO or employing someone to do it for you. Choosing the best option can be tricky to navigate.
 
