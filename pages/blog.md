@@ -9,4 +9,5 @@ image: /static/img/myriam-jessier-evei7mocsmw-unsplash.jpg
 eleventyNavigation:
   key: Blog
   order: 2
+<meta property="og:image" content="/static/img/myriam-jessier-evei7mocsmw-unsplash.jpg"/>
 ---
