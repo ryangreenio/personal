@@ -16,7 +16,6 @@ tags:
   - guide
 image: /static/img/pexels-pixabay-265125.jpg
 ---
-## Popular SEO tools & resources you should know about
 
 If you're looking to improve your website's SEO, there are a number of popular tools and resources you should know about.
 
