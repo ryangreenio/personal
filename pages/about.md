@@ -7,7 +7,9 @@ permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
+og:image: /static/img/travel.JPG
 ---
+
 ### TL;DRs
 - 5+ years in marketing 
 - Loves SEO, Data & Analytics 
