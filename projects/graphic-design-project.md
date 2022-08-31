@@ -2,7 +2,7 @@
 title: Graphic Design
 emoji: 👾
 metaDescription: A collection of graphic design work produced using Adobe Creative Suite. 
-date: 2022-008-01T00:00:00.000Z
+date: 2019-01-01T00:00:00.000Z
 summary: A collection of graphic design work
 tags:
   - graphic design
@@ -11,19 +11,19 @@ tags:
 
 ### Graphics
 
-A collection of graphic design work produced using Adobe Creative Suite. 
+A collection of graphic design work produced using Adobe Creative Suite, Sketchup and Blender. 
 
 ![Hasbro](/static/img/graphics/graphic-design-1.jpeg "Graphic design 1")
 
 ![Hasbro](/static/img/graphics/graphic-design-2.jpeg "Graphic design 2")
 
-![Hasbro](/static/img/graphics/graphic-design-3.jpeg"Graphic design 3")
+![Hasbro](/static/img/graphics/graphic-design-3.jpeg "Graphic design 3")
 
-![eSynergy](/static/img/graphics/graphic-design-4.jpeg"Graphic design 4")
+![esynergy](/static/img/graphics/graphic-design-4.jpeg "Graphic design 4")
 
-![Taylor James](/static/img/graphics/graphic-design-5.jpeg"Graphic design 5")
+![taylorjames](/static/img/graphics/graphic-design-5.jpeg "Graphic design 5")
 
-![eSynergy](/static/img/graphics/graphic-design-6.jpeg"Graphic design 6")
+![esynergy](/static/img/graphics/graphic-design-6.jpg "Graphic design 6")
 
-![Doh nut](/static/img/graphics/graphic-design-7.jpeg"Graphic design 7")
+![doh](/static/img/graphics/graphic-design-7.png "Graphic design 7")
 
