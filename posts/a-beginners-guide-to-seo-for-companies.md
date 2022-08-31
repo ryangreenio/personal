@@ -43,6 +43,8 @@ The percentage breakdown looks something like this:
 
 
 
+
+
 This means that if a user cannot find your website on the first page of Google, you'll be practically non-existent and other competitor sites are likely winning customers and business over yours.
 
 This is where SEO can help.
@@ -196,6 +198,9 @@ In fact, the majority of marketing budgets should initially be spent in SEO (alo
 ### How many hours does SEO take?
 
 For a standard website, you can expect the following hours required to complete each task:
+
+
+
 
 | **SEO Task**                   | **Hours Needed**        |
 | ------------------------------ | ----------------------- |

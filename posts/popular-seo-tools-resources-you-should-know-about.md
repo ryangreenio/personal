@@ -23,7 +23,7 @@ In addition to these tools, there are a handful of helpful SEO guides and articl
 
 Here are some of my go-to resources:
 
-### Learning SEO & General Certifications
+### Learning SEO & general certifications
 
 * [GA4 Certificate](https://skillshop.exceedlms.com/student/path/508845-google-analytics-certification?sid=c5735546-599d-47bf-98cd-798b40b312c2&sid_i=2)
 * [Learning SEO](https://learningseo.io/)
@@ -36,7 +36,7 @@ Here are some of my go-to resources:
 * [Pingdom](https://tools.pingdom.com/)
 * [Oh Dear](https://ohdear.app/)
 
-### Data & Analytics
+### Data & analytics
 
 * [Google Search Console](https://search.google.com/search-console/about)
 * [SEO testing](https://seotesting.com/)
@@ -48,7 +48,7 @@ Here are some of my go-to resources:
 * [MOZ](https://moz.com/)
 * [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)
 
-### PR & backlinks & Publishing
+### PR, backlinks & publishing
 
 * [Buzzstream](https://www.buzzstream.com/)
 * [Grammarly](https://app.grammarly.com/)
