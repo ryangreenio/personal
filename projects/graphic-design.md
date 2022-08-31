@@ -19,3 +19,11 @@ A collection of graphic design work produced using Adobe Creative Suite.
 
 ![Hasbro](/static/img/graphics/graphic-design-3.jpeg"Graphic design 3")
 
+![eSynergy](/static/img/graphics/graphic-design-4.jpeg"Graphic design 4")
+
+![Taylor James](/static/img/graphics/graphic-design-5.jpeg"Graphic design 5")
+
+![eSynergy](/static/img/graphics/graphic-design-6.jpeg"Graphic design 6")
+
+![Doh nut](/static/img/graphics/graphic-design-7.jpeg"Graphic design 7")
+
