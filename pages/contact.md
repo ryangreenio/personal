@@ -9,6 +9,7 @@ subtitle: Contact
 eleventyNavigation:
   key: Contact
   order: 5
+og:image: /static/img/pexels-pixabay-265125.jpg
 ---
 
 Fancy a chat? Looking to hire me?

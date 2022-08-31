@@ -9,4 +9,5 @@ emoji: 💻
 eleventyNavigation:
   key: Projects
   order: 4
+og:image: /static/img/pexels-javon-swaby-3314328.jpg
 ---
