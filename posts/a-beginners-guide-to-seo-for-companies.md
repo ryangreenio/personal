@@ -41,8 +41,7 @@ The percentage breakdown looks something like this:
 | Search Position 9                  | 2.2%                           |
 | Search Position 10 (if present)    | 2.1%                           |
 
-
-
+<br>
 
 
 This means that if a user cannot find your website on the first page of Google, you'll be practically non-existent and other competitor sites are likely winning customers and business over yours.
@@ -199,8 +198,7 @@ In fact, the majority of marketing budgets should initially be spent in SEO (alo
 
 For a standard website, you can expect the following hours required to complete each task:
 
-
-
+<br>
 
 | **SEO Task**                   | **Hours Needed**        |
 | ------------------------------ | ----------------------- |
@@ -211,7 +209,7 @@ For a standard website, you can expect the following hours required to complete 
 | Link building                  | 20 hours per month      |
 | Analytics and reporting        | 5 hours per month       |
 
-
+<br>
 
 Another misconception in SEO is that once you've built a website and optimised it for SEO, your work is done. SEO is something you continually need to work on and invest time into to ensure your traffic continually grows month on month.
 
@@ -235,7 +233,7 @@ If you're keen to dive into SEO for your website, here are a few search engine o
 
 * [Page Speed Insights](https://pagespeed.web.dev/)
 * [AHREF's](https://ahrefs.com/)
-* [Google Analytics](https://analytics.google.com/analytics/web/%23/) (or[Matamo](https://matomo.org/))
+* [Google Analytics](https://analytics.google.com/analytics/web/%23/) (or [Matamo](https://matomo.org/))
 * [Google Search Console](https://search.google.com/search-console/about)
 * [SEO testing](https://seotesting.com/)
 * [Buzzstream](https://www.buzzstream.com/)
