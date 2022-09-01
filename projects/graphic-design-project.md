@@ -7,6 +7,8 @@ summary: A collection of graphic design work
 tags:
   - graphic design
   - adobe
+image: /static/img/pexels-javon-swaby-3314328.jpg
+
 ---
 
 ### Graphics

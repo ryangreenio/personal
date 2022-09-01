@@ -7,21 +7,21 @@ permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
-og:image: /static/img/travel.JPG
+image: /static/img/travel.JPG
 ---
 
 ### TL;DRs
 - 5+ years in marketing 
-- Loves SEO, Data & Analytics 
-- Open to freelance opportunities
+- Loves SEO, data & analytics 
+- Open to new opportunities
 
 
 I’m Ryan - SEO’er by day, traveller by any free time I get. 
 
 For the past 3 years I’ve worked remotely for some awesome companies including Picked, eSynergy Solutions, and most recently Reliably. 
 
-When I am not working, I am planning my next travel adventure with my wife. You’ll often find us disagreeing on how many retrievers is too many to own. 
+When I am not working, I am planning my next travel adventure with my wife. You’ll often find us disagreeing on how many golden retrievers is too many to own. 
 
-3 of the coolest things I’ve ever done: jumped out of an aeroplane; worked in New Zealand for 16 months and 3D printed a robot that could tell you my resume. 
+3 of the bravest things I’ve done: jumping out of an aeroplane; working abroad in New Zealand and cave diving in Mexico. 
 
 ![Travel Ryan Green](/static/img/travel.JPG "travel adventure Ryan ")

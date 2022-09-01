@@ -8,11 +8,12 @@ tags:
   - content writing
   - blogging
   - editing
+image: /static/img/pexels-pixabay-459654.jpg
 ---
 
 ### Project Summary
 
-Here is a list of content I've produced for other websites.
+Here is a list of content I've produced for other websites:
 
 #### Assessments I've Written
 
@@ -34,10 +35,11 @@ Here is a list of content I've produced for other websites.
 
 - <a href="https://www.testcandidates.com/magazine/pre-employment-psychometric-testing-how-to-eliminate-bias/">Pre-Employment Psychometric Testing: How to Eliminate Bias</a>
 
-#### Landing pages
+#### Landing page examples
 
 - <a href="https://www.careerroo.com/employers/"> Airline Employer pages</a>
 - <a href="https://www.techtest.io/publishers/"> Publisher pages</a>
+- <a href="https://reliably.com/industry/"> Reliably industry pages</a>
 
 
 

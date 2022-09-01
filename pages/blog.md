@@ -8,5 +8,5 @@ subtitle: A collection of blog posts
 eleventyNavigation:
   key: Blog
   order: 2
-og:image: /static/img/myriam-jessier-evei7mocsmw-unsplash.jpg
+image: /static/img/myriam-jessier-evei7mocsmw-unsplash.jpg
 ---

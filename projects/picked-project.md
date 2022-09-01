@@ -9,6 +9,8 @@ tags:
   - seo
   - ppc
   - marketing automation
+image: /static/img/picked.png
+
 ---
 
 ### About Picked Group

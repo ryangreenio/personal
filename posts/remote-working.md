@@ -1,5 +1,5 @@
 ---
-title: 10 Benefits Of Working Remotely
+title: 10 benefits of working remotely
 author: Ryan Green
 summary: Remote working is now popular amongst many companies and is becoming
   the new standard way to work. If your are considering working remotely check

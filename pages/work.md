@@ -6,6 +6,8 @@ permalink: /work/index.html
 eleventyNavigation:
   order: 3
   key: Work
+image: /static/img/myriam-jessier-evei7mocsmw-unsplash.jpg
+
 ---
 ### 👨🏼‍💻 Recent Experience:
 
