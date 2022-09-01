@@ -21,9 +21,15 @@ A collection of graphic design work produced using Adobe Creative Suite, Sketchu
 
 ![esynergy](/static/img/graphics/graphic-design-4.jpeg "Graphic design 4")
 
+![Picked](/static/img/graphics/graphic-design-9.png "Graphic design 9")
+
 ![taylorjames](/static/img/graphics/graphic-design-5.jpeg "Graphic design 5")
 
 ![esynergy](/static/img/graphics/graphic-design-6.jpg "Graphic design 6")
 
-![doh](/static/img/graphics/graphic-design-7.png "Graphic design 7")
+![Picked](/static/img/graphics/graphic-design-8.png "Graphic design 8")
+
+
+
+
 

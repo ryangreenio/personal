@@ -73,3 +73,15 @@ eleventyNavigation:
 * AutoPilot, HubSpot, ActiveCampaign, MailChimp, Sendin Blue
 * Adobe Creative Suite, Canva, Blender
 * Atom, VSC, HTML5, CSS, NJK, 11ty, Netifly, GitHub, WordPress
+
+- - -
+
+### 🏅 Certificates:
+
+* <a href="/static/img/certificates/Advanced-Google-Analytics.pdf">Advanced Google Analytics</a> 
+* <a href="/static/img/certificates/YouTube.pdf">YouTube Content Ownership</a> 
+* <a href="/static/img/certificates/Xero-Certified-Advisor.pdf">Xero Certified Advisor</a> 
+
+
+
+
