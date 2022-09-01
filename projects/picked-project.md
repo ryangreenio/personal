@@ -15,9 +15,9 @@ image: /static/img/picked.png
 
 ### About Picked Group
 
-Picked Group’s vision is to place everyone in the right job, all of the time. We are using technology to make recruitment & HR a much more efficient process for candidates and for employers. 
+Picked Group’s vision is to place everyone in the right job, all of the time. Picked uses AI technology to make recruitment & HR a much more efficient process for candidates and for employers. 
 
-Picked Group consists of 9 websites including Picked.Ai, Practiceaptitudetests.com, Fintest.io and Testcandidates.com. 
+Picked Group consists of 9 websites with a combined search traffic of 650k per month including picked.Ai, practiceaptitudetests.com, fintest.io and testcandidates.com.
 
 ![Picked](/static/img/picked.png "Picked")
 
