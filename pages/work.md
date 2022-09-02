@@ -80,6 +80,7 @@ image: /static/img/myriam-jessier-evei7mocsmw-unsplash.jpg
 
 ### 🏅 Certificates:
 
+* <a href="/static/img/certificates/GA4-Certificate.pdf">GA4</a> 
 * <a href="/static/img/certificates/Advanced-Google-Analytics.pdf">Advanced Google Analytics</a> 
 * <a href="/static/img/certificates/YouTube.pdf">YouTube Content Ownership</a> 
 * <a href="/static/img/certificates/Xero-Certified-Advisor.pdf">Xero Certified Advisor</a> 
