@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /tags
+Disallow: /project-tags
+Disallow: /static
+Disallow: /authors
+Disallow: /author
