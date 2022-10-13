@@ -1,3 +1,7 @@
+---
+permalink: '/robots.txt'
+---
+
 User-agent: *
 Disallow: /tags
 Disallow: /project-tags
