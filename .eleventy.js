@@ -83,7 +83,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
   // robots.txt file
-  eleventyConfig.addPassthroughCopy("robots.njk");
+  eleventyConfig.addPassthroughCopy("robots.txt");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
