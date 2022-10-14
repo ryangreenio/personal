@@ -62,8 +62,7 @@ module.exports = function(eleventyConfig) {
     return minified.code;
   });
 
-// robots.txt file
-  eleventyConfig.addPassthroughCopy("robots.txt");
+
 
   // Minify HTML output
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
@@ -83,6 +82,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
+  // robots.txt file
+  eleventyConfig.addPassthroughCopy("robots.njk");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
