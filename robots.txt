@@ -1,0 +1,12 @@
+---
+permalink: '/robots.txt'
+eleventyExcludeFromCollections: true
+---
+Sitemap: https://ryangreen.io/sitemap.xml
+
+User-agent: *
+Disallow: /tags
+Disallow: /project-tags
+Disallow: /static
+Disallow: /authors
+Disallow: /author
