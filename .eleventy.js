@@ -85,6 +85,8 @@ module.exports = function(eleventyConfig) {
   
   // robots.txt file
   eleventyConfig.addPassthroughCopy("robots.txt");
+    // sitemap.xml file
+    eleventyConfig.addPassthroughCopy("sitemap.xml");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
