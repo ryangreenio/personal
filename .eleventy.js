@@ -62,6 +62,9 @@ module.exports = function(eleventyConfig) {
     return minified.code;
   });
 
+// robots.txt file
+  eleventyConfig.addPassthroughCopy("robots.txt");
+
   // Minify HTML output
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     if (outputPath && outputPath.indexOf(".html") > -1) {
