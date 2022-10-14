@@ -82,6 +82,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
+  
   // robots.txt file
   eleventyConfig.addPassthroughCopy("robots.txt");
 
